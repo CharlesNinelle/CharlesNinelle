@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 ---
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=haytamaroui.haytamaroui" />
  
-# <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Haytam+Aroui!;" /></p>
+# <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nina+Charles!;" /></p>
  
-## <p align="center">A passionate software developer from Belgium</p>
+## <p align="center">A software developer from Belgium</p>
  
 ---
  
