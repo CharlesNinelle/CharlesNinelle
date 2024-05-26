@@ -18,14 +18,6 @@
  
 ## <p align="center">A software developer from Belgium</p>
  
----
- 
-🔭 I’m currently working on **a marketplace**  
-🌱 I’m currently learning **Docker, Go, AWS**  
-💬 Ask me about **JAVA, Spring, Angular CLI... or anything.**  
-⚡ Fun fact: **“In programming, you don’t need to know everything. You just need to know where to find it, when you need it..”**
- 
----
  
 <p align="center">
 <a href="mailto:charlesninelle@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" /></a>
