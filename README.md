@@ -12,20 +12,12 @@
 </p>
  
 ---
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=haytamaroui.haytamaroui" />
  
 # <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nina+Charles!;" /></p>
  
-## <p align="center">A software developer from Belgium</p>
+## <p align="center">A software developer</p>
  
----
- 
-🔭 I’m currently working on **a marketplace**  
-🌱 I’m currently learning **Docker, Go, AWS**  
-💬 Ask me about **JAVA, Spring, Angular CLI... or anything.**  
-⚡ Fun fact: **“In programming, you don’t need to know everything. You just need to know where to find it, when you need it..”**
- 
----
+
  
 <p align="center">
 <a href="mailto:charlesninelle@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" /></a>
@@ -67,7 +59,6 @@
 ---
  
 <p align="center"> 
-<a href="https://haytamaroui.com" target="_blank">
 <img src="https://img.shields.io/badge/Haytamaroui.com-%23000B25.svg?style=for-the-badge&logo=Haytamaroui.com&logoColor=00A4DC" target="_blank" />
 </a>
 </p>
